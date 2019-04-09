@@ -1,0 +1,21 @@
+body {
+    /* background-color:red; */
+}
+
+div {
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 100% ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../img/puppy.jpg")
+
+}
+
+img {
+    border: 1px groove orangered;
+    border-radius: 100% ;
+    padding: 20px;
+    margin: 30px;
+}

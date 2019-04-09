@@ -1,0 +1,40 @@
+h1 {
+    font-family: "Indie flower";
+    font-size: 4em;
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 1rem;
+    text-shadow: 4px 5px 10px red;
+
+}
+
+#one {
+    font-weight: 100;
+}
+
+#two {
+    font-weight: 400;
+}
+
+#three {
+    font-weight: 900;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a {
+    font-size: 2em;
+    text-decoration: none;
+}
+
+
+
+#through {
+    text-decoration: line-through;
+}
+
+#indent {
+    text-indent: 50px;
+}

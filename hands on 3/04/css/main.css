@@ -1,0 +1,25 @@
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: yellow;
+}
+
+p::first-letter {
+    font-size: 32px;
+    color: coral;
+}
+
+p::first-line {
+    font-size: 32px;
+    color: rgb(32, 139, 0);
+}

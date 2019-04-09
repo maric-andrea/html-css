@@ -1,0 +1,19 @@
+/*
+h1 {
+    color: red;
+    border: 1px solid black;
+    font-style: italic;
+}
+*/
+
+#emph {
+    color: blue; /*it will be blue color (highest points in specificity calculator)*/
+}
+
+.emphasize {
+    color: green;
+}
+
+.cowboy {
+    color: yellow;
+}
